@@ -20,7 +20,7 @@ require('config.options')
 
 local opts = {
   install = {
-    colorscheme = { "moonfly" }
+    colorscheme = { "cyberdream" }
   },
   rtp = {
     disabled_plugins = {
